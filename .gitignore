@@ -1,0 +1,4 @@
+build/
+*.zip
+*.certSigningRequest
+.DS_Store
